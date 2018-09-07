@@ -1,0 +1,12 @@
+1. Variation 3
+
+{ (u,v) | 0 <= u <= π, 0 <= v <= π }
+x = sin(v)sin(u)
+y = cos(v)cos(u)
+z = sin(v)cos(u)
+
+Render generated with: http://www.morphingbook.com/tool.html
+A tool accompanying Joseph Coma's 
+`Morphing: A Guide to Mathematical Transformations for Architects and Designers`
+
+Variation achieved by rotation of the rendered shape
