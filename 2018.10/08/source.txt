@@ -1,4 +1,4 @@
-5. Variation 1
+5. Variation 3
 
 { (u,v) | 0 <= u <= 2π, 0 <= v <= π }
 x = sin(v)cos(u)*4
