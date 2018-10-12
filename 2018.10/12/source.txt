@@ -1,4 +1,4 @@
-6. Variation 2
+7. Variation 1
 
 { (u,v) | 0 <= u <= π, 0 <= v <= π }
 x = (u+v)/6
