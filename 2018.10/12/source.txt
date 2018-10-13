@@ -1,9 +1,9 @@
 7. Variation 1
 
 { (u,v) | 0 <= u <= π, 0 <= v <= π }
-x = (u+v)/6
+x = (u+v)/2
 y = sin(v)sin(u)
-z = (sin(u+v))cos(u)/4
+z = cos(u+v)
 
 Render generated with: http://www.morphingbook.com/tool.html
 A tool accompanying Joseph Coma's 
