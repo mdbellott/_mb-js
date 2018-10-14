@@ -1,6 +1,6 @@
 7. Variation 1
 
-{ (u,v) | 0 <= u <= π, 0 <= v <= π }
+{ (u,v) | 0 <= u <= 2π, 0 <= v <= π }
 x = (u+v)/2
 y = sin(v)sin(u)
 z = cos(u+v)
