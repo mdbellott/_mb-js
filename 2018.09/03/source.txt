@@ -1,6 +1,6 @@
 0. Variation 3
 
-{ (u,v) | 0 <= u <= π, 0 <= v <= π }
+{ (u,v) | 0 <= u <= 2π, 0 <= v <= π }
 x = sin(u)cos(v)
 y = sin(u)sin(v)
 z = cos(v)
