@@ -27,7 +27,7 @@ void draw() {
   // Setup for drawing
   u = 0;
   v = 0;
-  uMax = 2*PI;
+  uMax = PI;
   vMax = PI;
 
   background(0);
@@ -44,7 +44,7 @@ void draw() {
   rotateZ(frameCount*PI/(1.5*rSpeed));
 
   // Computation
-  for (u = -PI; u <= PI; u+=(uMax/iterations)) {
+  for (u = -uMax; u <= uMax; u+=(uMax/iterations)) {
     for (v = 0; v <= vMax; v+=(vMax/iterations)) {
       x = (v*cos(u))*scalar;
       y = (v*sin(u))*scalar;
