@@ -18,7 +18,7 @@ float scalar = 75;
 void setup() {
   size(1000, 1000, P3D);
   background(0);
-  strokeWeight(0.85);
+  strokeWeight(0.7);
   stroke(255);
 }
 
@@ -38,7 +38,7 @@ void draw() {
 
   // Rotation
   //float rSpeed = 950
-  float rSpeed = 575;
+  float rSpeed = 255;
   rotateX(frameCount*PI/rSpeed);
   rotateY(frameCount*PI/rSpeed);
   rotateZ(frameCount*PI/(1.5*rSpeed));
