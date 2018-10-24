@@ -44,9 +44,9 @@ void draw() {
   // Computation
   for (u = 0; u <= uMax; u+=(uMax/iterations)) {
     for (v = 0; v <= vMax; v+=(vMax/iterations)) {
-      x = (sin(u)*cos(v))*scalar;
-      y = (sin(u)*sin(v))*scalar;
-      z = cos(v)*scalar;
+      x = (sin(u)*cos(v)) * scalar;
+      y = (sin(u)*sin(v)) * scalar;
+      z = cos(v) * scalar;
       point(x, y, z);
     }
   }

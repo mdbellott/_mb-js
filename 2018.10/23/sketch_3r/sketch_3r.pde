@@ -1,5 +1,5 @@
 //
-// 1r
+// 3r
 // Mark Bellott
 //
 // Morphing and Rotation
@@ -45,9 +45,9 @@ void draw() {
   // Computation
   for (u = 0; u <= uMax; u+=(uMax/iterations)) {
     for (v = 0; v <= vMax; v+=(vMax/iterations)) {
-      x = (cos(4*u)/4 + sin(v)*cos(u))*scalar;
-      y = (sin(4*u)/4 + sin(v)*sin(u))*scalar;
-      z = sin(v)*scalar;
+      x = (cos(4*u)/4 + sin(v)*cos(u)) * scalar;
+      y = (sin(4*u)/4 + sin(v)*sin(u)) * scalar;
+      z = sin(v) * scalar;
       point(x, y, z);
     }
   }
