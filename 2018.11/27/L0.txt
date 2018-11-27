@@ -1,0 +1,12 @@
+Leftover 0
+
+{ (u,v) | 0 <= u <= 4π, 0 <= v <= π }
+x = u + v
+y = sin(u)sin(v)
+z = sin(u+v)cos(u)
+
+Render generated with: http://www.morphingbook.com/tool.html
+A tool accompanying Joseph Coma's 
+`Morphing: A Guide to Mathematical Transformations for Architects and Designers`
+
+Leftovers from the series `Morphing and Rotations`
