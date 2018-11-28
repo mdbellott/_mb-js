@@ -9,4 +9,4 @@ Render generated with: http://www.morphingbook.com/tool.html
 A tool accompanying Joseph Coma's 
 `Morphing: A Guide to Mathematical Transformations for Architects and Designers`
 
-Leftovers from the series `Morphing and Rotations`
+Leftovers from 'Morphing and Rotation'
