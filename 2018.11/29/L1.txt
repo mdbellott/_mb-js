@@ -2,7 +2,7 @@ Leftover 1
 
 { (u,v) | 0 <= u <= 2π, 0 <= v <= π }
 x = sin(4v)cos(4u)
-y = sin(4v)cose(4u)
+y = sin(4v)sin(4u)
 z = 4*cos(u+v)
 
 Render generated with: http://www.morphingbook.com/tool.html
