@@ -1,0 +1,12 @@
+Leftover 2
+
+{ (u,v) | 0 <= u <= 2π, π <= v <= 5π }
+x = uv + cos(v)
+y = u + 15(sin(v)cos(u))
+z = 15(sin(v)sin(u))
+
+Render generated with: http://www.morphingbook.com/tool.html
+A tool accompanying Joseph Coma's 
+`Morphing: A Guide to Mathematical Transformations for Architects and Designers`
+
+Leftovers from 'Morphing and Rotation'
