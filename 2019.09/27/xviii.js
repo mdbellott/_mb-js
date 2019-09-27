@@ -3,6 +3,9 @@
 //
 // p5.js
 // Rendered on openprocessing.org
+//
+// Inspiration: https://www.openprocessing.org/sketch/733558
+// By Fractalman
 
 let theta = 1
 
