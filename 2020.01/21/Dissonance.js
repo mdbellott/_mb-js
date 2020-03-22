@@ -1,4 +1,4 @@
-// Fuzz
+// Dissonance
 // Mark Bellott
 
 let num = 50, frames = 120
